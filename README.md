@@ -9,6 +9,9 @@
 ![JavaFX](https://img.shields.io/badge/JavaFX-UI_Library-blue.svg)
 ![IDE](https://img.shields.io/badge/IDE-Eclipse_IntelliJ-purple.svg)
 
+<img src="Interface.png" alt="ScreenshotInterface" width="80%">
+
+
 </div>
 
 Ce projet est un outil de génération et de modélisation de diagrammes **UML** (diagramme de classes) et **ERD** (entité-relation), développé en Java avec **JavaFX**. Il permet de créer des entités, attributs, relations et d’exporter des diagrammes de manière interactive.
